@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Motivation}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{2}
+\beamer@sectionintoc {3}{Related Work}{4}{0}{3}
+\beamer@sectionintoc {4}{Transfer Learning Framework}{7}{0}{4}
+\beamer@sectionintoc {5}{Evaluation}{9}{0}{5}
+\beamer@sectionintoc {6}{Results}{11}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{13}{0}{7}
+\beamer@sectionintoc {8}{Future Work}{14}{0}{8}
+\beamer@sectionintoc {9}{Questions?}{15}{0}{9}
